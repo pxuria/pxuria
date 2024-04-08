@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>Languages :</h2>
+<h2>Skills :</h2>
 <div style="display:flex; flex-wrap: wrap;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50"/>
