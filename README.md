@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>Skills :</h2>
-<div style="display:flex; flex-wrap: wrap;">
+<div style="display:flex; flex-wrap: wrap; width:100px;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50"/>
@@ -19,6 +19,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50"/>
 </div>
+
 
 ## My Activities:
 <img src="https://github-readme-stats.vercel.app/api?username=pxuria&show_icons=true&theme=tokyonight"/>
