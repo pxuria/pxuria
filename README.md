@@ -50,4 +50,11 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="Gmail" width="50" height="50"/>
 </a>
 
+
+
+<a href="www.linkedin.com/in/pxuria">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn" width="50" height="50"/>
+</a>
+
+
 </div>
