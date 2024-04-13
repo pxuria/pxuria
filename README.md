@@ -42,4 +42,9 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
   </a>
 
 
+<a href="https://www.instagram.com/pxuriam?igsh=aHM5ZXQ0N2wzbzV2">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="instagram" width="50" height="50"/>
+  </a>
+
+
 </div>
