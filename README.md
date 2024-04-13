@@ -33,3 +33,11 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
 <h2>Let's colab 🚀</h2>
 
 <p>🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!</p>
+
+<div style="display:flex; flex-wrap:wrap;">
+<a href="your-twitter-URL">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" alt="Twitter Badge"/>
+  </a>
+
+
+</div>
