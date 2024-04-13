@@ -34,8 +34,10 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
 
 <p>🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!</p>
 
+<h2>My Socials:<h2/>
+
 <div style="display:flex; flex-wrap:wrap;">
-<a href="your-twitter-URL">
+<a href="https://t.me/pxuria">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" alt="telegram" width="50" height="50"/>
   </a>
 
