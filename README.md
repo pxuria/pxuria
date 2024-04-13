@@ -1,4 +1,8 @@
-<h1>Hi, I'm Pouria👋</h1>
+<h1>I'm Pouria👋</h1>
+
+<p>
+
+Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Self-taught software Developer. I have a profound knowledge in React, Javascript & Rest Frameworks and packages. I love to work with new Technologies and like to learn new things everytime and I'm currently learning express js to work also as a Backend developer. </p>
 
 <h2>My Skills :</h2>
 <div style="display:flex; flex-wrap: wrap; width:100px;">
