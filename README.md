@@ -58,4 +58,8 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
 </a>
 
 
+<a href="https://wa.me/qr/D7IKULEARVICJ1" style="margin-right:24px;">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-1024.png" alt="LinkedIn" width="50" height="50"/>
+</a>
+
 </div>
