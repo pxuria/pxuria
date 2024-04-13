@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pouria👋</h1>
 
-<h2>Skills :</h2>
+<h2>My Skills :</h2>
 <div style="display:flex; flex-wrap: wrap; width:100px;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50"/>
