@@ -36,24 +36,24 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
 
 <h2>My Socials:<h2/>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
+<div style="display:flex; flex-wrap:wrap;">
 
-<a href="https://t.me/pxuria" style="margin-right:16px;">
+<a href="https://t.me/pxuria" style="margin-right:24px;">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" alt="telegram" width="50" height="50"/>
   </a>
 
 
-<a href="https://www.instagram.com/pxuriam?igsh=aHM5ZXQ0N2wzbzV2">
+<a href="https://www.instagram.com/pxuriam?igsh=aHM5ZXQ0N2wzbzV2" style="margin-right:24px;">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="instagram" width="50" height="50"/>
 </a>
 
-<a href="mailto:pouriamesram@gmail.com">
+<a href="mailto:pouriamesram@gmail.com"style="margin-right:24px;">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="Gmail" width="50" height="50"/>
 </a>
 
 
 
-<a href="www.linkedin.com/in/pxuria">
+<a href="www.linkedin.com/in/pxuria" style="margin-right:24px;">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn" width="50" height="50"/>
 </a>
 
