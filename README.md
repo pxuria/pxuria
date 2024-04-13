@@ -47,7 +47,7 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="instagram" width="50" height="50"/>
 </a>
 
-<a href="mailto:pouriamesram@gmail.com"style="margin-right:24px;">
+<a href="mailto:pouriamesram@gmail.com" style="margin-right:24px;">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="Gmail" width="50" height="50"/>
 </a>
 
