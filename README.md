@@ -53,7 +53,7 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
 
 
 
-<a href="www.linkedin.com/in/pxuria" style="margin-right:24px;">
+<a href="https://www.linkedin.com/in/pxuria" style="margin-right:24px;">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn" width="50" height="50"/>
 </a>
 
