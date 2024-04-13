@@ -36,8 +36,9 @@ Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Sel
 
 <h2>My Socials:<h2/>
 
-<div style="display:flex; flex-wrap:wrap; gap:40px;">
-<a href="https://t.me/pxuria">
+<div style="display:flex; flex-wrap:wrap;">
+
+<a href="https://t.me/pxuria" style="margin-right:16px;">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" alt="telegram" width="50" height="50"/>
   </a>
 
