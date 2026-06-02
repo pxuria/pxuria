@@ -5,7 +5,8 @@
 Hi,I'm Pouria 👨‍💻 , a passoniate Frontend deveolper from Iran.I am a Self-taught software Developer. I have a profound knowledge in React, Javascript & Rest Frameworks and packages. I love to work with new Technologies and like to learn new things everytime and I'm currently learning express js to work also as a Backend developer. </p>
 
 <h2>My Skills :</h2>
-<div>
+
+<div style='display:flex; flex-wrap: wrap; gap: 4px;'>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
